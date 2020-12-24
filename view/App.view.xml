@@ -1,8 +1,5 @@
 <mvc:View
-   controllerName="de.fiori.elements.controller.App"
    xmlns="sap.m"
    xmlns:mvc="sap.ui.core.mvc">
-   <Button
-      text="Say Hello"
-      press=".onShowHello"/>
+   <Text text="Hello World"/>
 </mvc:View>
